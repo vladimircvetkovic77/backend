@@ -1,0 +1,8 @@
+{
+  "giphyApiTrendingBaseUrl": "https://api.giphy.com/v1/gifs/trending?",
+  "giphyApiSearchBaseUrl": "https://api.giphy.com/v1/gifs/search?",
+  "giphyApiKey": "jRUwRKbjqEGmNDwUXOedGz9KZzun92mF",
+  "applicationPort": 3001,
+  "defaultGiphySearchLimit": 25,
+  "maximumGiphySearchLimit": 50
+}
